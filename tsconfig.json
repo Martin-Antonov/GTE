@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "outFile":"build/app.js"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
