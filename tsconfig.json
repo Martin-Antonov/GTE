@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "target": "es6",
+    "target": "es5",
     "outFile":"build/app.js"
   },
   "exclude": [
-    "node_modules"
+    "lib"
   ]
 }
